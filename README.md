@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/semantic-html5-markup-css-custom-properties-flexbox-css-grid-bzuVwRA92L)
+- Live Site URL: [Demo Solution](https://sarkastherin.github.io/blog-preview-card/)
 
 ## My process
 

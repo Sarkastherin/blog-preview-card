@@ -1,0 +1,20 @@
+{
+  "name": "blog-preview-card",
+  "version": "1.0.0",
+  "description": "This is a solution to the Blog preview card challenge on Frontend Mentor",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarkastherin/blog-preview-card.git"
+  },
+  "keywords": [],
+  "author": "Katherin Guerrero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sarkastherin/blog-preview-card/issues"
+  },
+  "homepage": "https://github.com/Sarkastherin/blog-preview-card#readme"
+}
